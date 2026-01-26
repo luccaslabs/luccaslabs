@@ -32,11 +32,6 @@ Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
 - **WebScraping** 
 - **Bootstrap**
 
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luccas-souza07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccas20071608@gmail.com)
-
 ---
 
 <div align="center">
