@@ -28,9 +28,9 @@ Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
 ## 🌱 Atualmente Aprendendo
 
 - **Fast API** 
-- **Pandas**
-- **WebScraping** 
-- **Bootstrap**
+- **Docker**
+- **LLMs e IA Generativa** 
+- **Redis**
 
 ---
 
