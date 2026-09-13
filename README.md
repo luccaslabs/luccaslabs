@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
+Sou estudante de Ciência da Computação apaixonado por transformar lógica em algo que funciona de verdade, seja resolvendo um problema no back-end com Java, Python, Spring Boot ou FastAPI, seja explorando os bastidores de uma rede ou pensando em segurança. Gosto de aprender por curiosidade genuína, não só por obrigação acadêmica, e sou do tipo que prefere entender o porquê das coisas antes de sair aplicando fórmula pronta. Curioso por natureza, gosto de montar peças que se encaixam, seja em uma arquitetura de sistema ou em qualquer desafio que exija pensar um passo à frente.
 
 ## 🛠️ Linguegens e Tecnologias
 
