@@ -9,6 +9,14 @@ Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
 ### **Backend**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+
+### **Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 
 ### **Autenticação & Banco de Dados**
 
@@ -17,6 +25,10 @@ Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
 ### **Ferramentas**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
 
 ## 📈 Estatísticas do GitHub
 
@@ -27,9 +39,9 @@ Estudante em formação, aprendendo Python com foco em desenvolvimento Back-end.
 
 ## 🌱 Atualmente Aprendendo
 
-- **Fast API** 
-- **Docker**
-- **LLMs e IA Generativa** 
+- **Idepotência** 
+- **C#**
+- **Tipos de criptografias** 
 - **Redis**
 
 ---
