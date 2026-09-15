@@ -31,7 +31,7 @@ Sou estudante de Ciência da Computação apaixonado por transformar lógica em 
 
 ## 🌱 Atualmente Aprendendo
 
-- **Idepotência** 
+- **Idempotência** 
 - **C#**
 - **Tipos de criptografias** 
 - **Redis**
